@@ -9,5 +9,6 @@
 - [第五章 数字音频](notes/chapter5.md)
 - [第六章 采样与采样处理](notes/chapter6.md)
 - [第七章 录制人声](notes/chapter7.md)
+- [第八章 录音真乐器](notes/chapter8.md)
 - [第十章 乐理](notes/chapter10.md)
 - [第十一章 House](notes/chapter11.md)
