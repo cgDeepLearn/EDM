@@ -36,6 +36,32 @@
 
 ## 旋律和动机
 
+主奏乐器的旋律要取决于音乐的类型。
 
+Lead经常采样自其它唱片
+
+合成House Lead音色往往使用锯齿波、三角波和噪声波来制作出谐波丰满的音色穿插在混音内，需要的话还可以加以滤波。
+
+对于和弦音色，House中最常用的乐器是Solina String Machine。
+首先使用3个锯齿波并将其中两个分别失谐+/-3音分。用LFO来给这两个失谐的锯齿波加入一些颤音，
+然后设置振幅包络为中等开启和释放，以及最大的保持(由于保持设为最大因此没有衰减)。
+将音色分为三轨，第一轨去掉低频，第二轨去掉全部中频，第三轨只留下高频，第三轨添加镶边或移相(其他轨或者都加)。
+将3轨文件导出成一个单轨文件放在采样器里，制作出适合音乐的和弦结构。
 
 ## 推荐音乐
+
+- Daft Punk
+- Room 5
+- The Supermen Lovers
+- Modjo
+- stardust
+- Kid creme
+- stylophonic
+- Moby
+- Laylo And Bushwacka
+- Roger Sanchez
+
+当然一些Disco艺术家的作品也是灵感来源
+
+- Giorgio Moroder
+- ......
