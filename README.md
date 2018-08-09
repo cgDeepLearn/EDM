@@ -13,3 +13,5 @@
 - [第九章 音序器](notes/chapter9.md)
 - [第十章 乐理](notes/chapter10.md)
 - [第十一章 House](notes/chapter11.md)
+
+- [第十九章 混缩](notes/chapter19.md)
