@@ -16,3 +16,4 @@
 
 - [第十九章 混缩](notes/chapter19.md)
 - [第二十章 母带处理](notes/chapter20.md)
+- [第二十一章 发行与推广](notes/chapter21.md)
